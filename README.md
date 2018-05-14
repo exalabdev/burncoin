@@ -1,0 +1,2 @@
+# burncoin
+burncoin
